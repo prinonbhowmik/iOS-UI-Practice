@@ -41,6 +41,7 @@ struct DataSummaryView: View {
                                         .fontWeight(.bold)
                                     Text("Calories")
                                         .font(.subheadline)
+                                        .padding(.bottom,4)
                                 }
                             }
                         )

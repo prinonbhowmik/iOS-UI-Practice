@@ -32,8 +32,8 @@
 		51B0A55A2D24B4DA00416D9A = {
 			isa = PBXGroup;
 			children = (
-				51B0A5652D24B4DA00416D9A /* Body Shape UI */,
 				51B0A5642D24B4DA00416D9A /* Products */,
+				51B0A5652D24B4DA00416D9A /* Body Shape UI */,
 			);
 			sourceTree = "<group>";
 		};
